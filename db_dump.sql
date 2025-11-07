@@ -1,4 +1,5 @@
--- Database dump generated: 2025-11-07T09:17:17.494423 UTC
+-- Database dump generated: 2025-11-07T15:21:04.633743 UTC
+SET client_encoding = 'UTF8';
 
 
 -- table: data
